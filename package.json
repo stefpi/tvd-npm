@@ -1,0 +1,23 @@
+{
+  "name": "tvd-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefpi/tvd-npm.git"
+  },
+  "author": "stefpi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stefpi/tvd-npm/issues"
+  },
+  "homepage": "https://github.com/stefpi/tvd-npm#readme",
+  "dependencies": {
+    "request": "^2.88.2",
+    "then-request": "^6.0.2"
+  }
+}
