@@ -1,6 +1,6 @@
 {
-  "name": "tvd-npm",
-  "version": "1.0.0",
+  "name": "twitchdl",
+  "version": "1.0.1",
   "description": "",
   "main": "app.js",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stefpi/tvd-npm.git"
+    "url": "git+https://github.com/stefpi/twitchdl.git"
   },
   "author": "stefpi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/stefpi/tvd-npm/issues"
+    "url": "https://github.com/stefpi/twitchdl/issues"
   },
-  "homepage": "https://github.com/stefpi/tvd-npm#readme",
+  "homepage": "https://github.com/stefpi/twitchdl#readme",
   "dependencies": {
     "request": "^2.88.2",
     "then-request": "^6.0.2"
